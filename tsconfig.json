@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "lib": ["ES6"]
+  },
+  "include": [
+    "node_modules/@figma/plugin-typings/index.d.ts",
+    "code.ts"
+  ]
+}

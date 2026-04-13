@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript compiled output (keep code.js since Figma needs it)
+*.js.map
+
+# OS / Editor
+.DS_Store
+.vscode/
+*.swp
