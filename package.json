@@ -1,7 +1,7 @@
 {
   "name": "plugin",
   "version": "1.0.0",
-  "description": "Convert a flattened single-path SVG into multiple editable vector layers, grouped for easy editing.",
+  "description": "Convert any SVG / flattened vector into a fully editable stroke-based vector node in Figma.",
   "main": "code.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

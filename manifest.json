@@ -1,6 +1,6 @@
 {
-  "name": "SVG Path Splitter",
-  "id": "svg-path-splitter",
+  "name": "SVG → Editable Stroke",
+  "id": "svg-editable-stroke",
   "api": "1.0.0",
   "main": "code.js",
   "ui": "ui.html",
